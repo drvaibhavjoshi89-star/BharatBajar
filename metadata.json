@@ -1,0 +1,8 @@
+{
+  "name": "BHARAT BAJAR",
+  "description": "Real-time NSE and BSE Indian stock market tracker with live indices, customizable watchlists, interactive candlestick and line charts, sectoral top gainers and losers, and personalized stock price alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
